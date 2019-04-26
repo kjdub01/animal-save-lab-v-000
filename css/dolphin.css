@@ -20,7 +20,7 @@ html {
 
 /* Write your solution here */
 
-
+@media only 
   #dolphin {    
     transform: rotate(-0.25turn);   
     right: 0;   
